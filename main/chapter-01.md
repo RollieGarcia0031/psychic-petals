@@ -16,7 +16,7 @@ Leaning in to get a better look at the intricate details, asks *"Where's your ho
 Damien pointed his finger towards the sprawling massive trees, with a slight smirk in his lips. *"Somewhere, right
 here."*
 
-The words hung in the air, heavy and ambiguous. A silence fell upon the room as Damien's classmares stared at him
+The words hung in the air, heavy and ambiguous. A silence fell upon the room as Damien's classmates stared at him
 as the teacher points at him to be the next one to introduce himself. Their eyes wide with a mixture of confusion and
 intrigue.
 
@@ -86,3 +86,5 @@ being dismissed early.
 
 He walked home alone, the sun-drenched streets feeling like a foreign landscape. To the groups of laughing students
 around him, he was just another face in the crowd, a stranger in a world that moved too fast for him to care.
+
+---
