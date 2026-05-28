@@ -1,4 +1,4 @@
-# Chapter 1: [Chapter Title - e.g., Unlabeled Maps]
+# Chapter 1: Unlabeled Maps
 
 ## Chapter Summary
 Damien starts his 11th-grade year. Through a classroom introduction and a mapping exercise, we see his talent for precision and his desire for anonymity.
@@ -9,5 +9,7 @@ Damien starts his 11th-grade year. Through a classroom introduction and a mappin
 * Show, don't tell, Damien's isolation through his choice of seating.
 
 ## Scene List
-1. **Scene 01: The Classroom Intro** - Damien's map and the "Math joke" atmosphere.
-2. **Scene 02: [Next Scene]** - Describe the next major beat here.
+1. **01-the-classroom-intro:** Damien's map and the "Math joke" atmosphere.
+2. **02-the-unlabeled-map:** Dahlia tries to decipher Damien's drawing. He remains ambiguous.
+3. **03-unknown-dreams:** Damien's hesitant introduction and his lack of a public "dream."
+4. **04-the-blind-spot:** Dahlia's failed attempt to sit with Damien in his "dead zone" seat.
