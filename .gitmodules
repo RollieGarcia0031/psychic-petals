@@ -1,0 +1,6 @@
+[submodule "psychic-petals-platform"]
+	path = psychic-petals-platform
+	url = git@github.com:RollieGarcia0031/psychic-petals-platform.git
+[submodule "psychic-petals-novel"]
+	path = psychic-petals-novel
+	url = git@github.com:RollieGarcia0031/psychic-petals-novel.git
